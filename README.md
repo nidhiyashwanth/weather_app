@@ -10,4 +10,3 @@
  - http v 0.13.4
 
 ## Application fetches weather data from [metaweather](https://www.metaweather.com/api)
-# weather_app
