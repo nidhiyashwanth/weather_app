@@ -5,6 +5,10 @@
 - The weather for the current day is displayed.
 - The app appearance also adapts as per weather conditions.
 
+## Working
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/65482596/169678611-bb050346-0633-4be9-9b6f-0e6f20c82b11.gif)
+
 ## Packages in use
  - cupertino_icons v 1.0.2
  - http v 0.13.4
